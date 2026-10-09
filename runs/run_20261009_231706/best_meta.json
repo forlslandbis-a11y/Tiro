@@ -1,1 +1,1 @@
-{"gen": 200, "best_ever_val": 2.9128493754165676, "cur_val": 2.940427071292951, "formulas": 3, "nodes": 79, "run": "run_20261009_231706", "node": null, "updated": 1791587826.7973752, "K": 3, "V": 65}
+{"gen": 400, "best_ever_val": 2.911502971506073, "cur_val": 2.952132771428902, "formulas": 3, "nodes": 79, "run": "run_20261009_231706", "node": null, "updated": 1791588439.417119, "K": 3, "V": 65}
