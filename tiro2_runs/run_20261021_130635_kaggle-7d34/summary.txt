@@ -1,0 +1,4 @@
+node=kaggle-7d34 platform=kaggle K=3 EMB=4
+stage 0 | 0.6분 | 수식 50개 노드 342
+best val 2.2092 (train 2.1716)
+구간별 최저 val: 
