@@ -1,0 +1,4 @@
+node=kaggle-03cb platform=kaggle K=3 EMB=8
+stage 4 | 10.9분 | 수식 12개 노드 518
+best val 2.2051 (train 2.2061)
+구간별 최저 val: 1~1: 2.728 | 1~1: 2.728 | 2~2: 2.526 | 3~3: 2.253 | 4~4: 2.205
