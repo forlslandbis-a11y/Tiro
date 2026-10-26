@@ -1,0 +1,4 @@
+node=kaggle-a505 platform=kaggle K=3 EMB=8
+stage 4 | 10.4분 | 수식 12개 노드 417
+best val 2.1367 (train 2.1370)
+구간별 최저 val: 1~1: 2.754 | 1~1: 2.754 | 2~2: 2.503 | 3~3: 2.176 | 4~4: 2.137
