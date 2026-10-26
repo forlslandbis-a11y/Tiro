@@ -1,1 +1,1 @@
-{"stage": 4, "best_val": 2.124763484948856, "train_loss": 2.125580241598951, "formulas": 12, "nodes": 441, "K": 3, "EMB": 8, "V": 128, "run": "run_20261026_234025_kaggle-acd6", "node": "kaggle-acd6", "platform": "kaggle", "updated": 1793058025.5931568}
+{"stage": 9, "best_val": 1.970495324334318, "train_loss": 1.9716388214846468, "formulas": 27, "nodes": 640, "K": 3, "EMB": 8, "V": 128, "run": "run_20261026_234025_kaggle-acd6", "node": "kaggle-acd6", "platform": "kaggle", "updated": 1793058653.7615228}
