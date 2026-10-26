@@ -1,0 +1,4 @@
+node=kaggle-acd6 platform=kaggle K=3 EMB=8
+stage 4 | 10.5분 | 수식 12개 노드 441
+best val 2.1248 (train 2.1256)
+구간별 최저 val: 1~1: 2.736 | 1~1: 2.736 | 2~2: 2.474 | 3~3: 2.155 | 4~4: 2.125
